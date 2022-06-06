@@ -1,1 +1,8 @@
-
+  1.ID: 1
+  2.Title: no check for «Описание» max length
+  3.Authour: Luidmila
+  4.Severity: minor
+  5.Priority: low
+  6.Environment: Chrome Версия 102.0.5005.63
+  7.AR: 250 symbols max
+  8.ER: more than 250 symbols
